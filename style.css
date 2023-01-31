@@ -1,0 +1,45 @@
+body
+{
+    background-color: black;
+    font-family: Helvetica, sans-serif;
+}
+
+#spike
+{
+    width: 600px;
+    height:auto;
+}
+
+h1, h2, h3, .Recipe-link, .ingredients, .steps
+{
+    color:white;
+}
+
+.Recipe-link
+{
+    font-size: 40px;
+    align-items: center;
+    font-weight: bold;
+}
+
+a
+{
+    color: wheat;
+}
+
+.steps
+{
+    font-size: 22px;
+}
+
+.ingredients
+{
+    font-size: 26px;
+
+}
+
+img
+{
+    width: 300px;
+    height: auto;
+}
